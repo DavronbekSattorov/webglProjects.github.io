@@ -1,0 +1,9 @@
+{
+    "[search-result]": {
+
+        "editor.lineNumbers": "off"
+    },
+    "search.exclude": {
+        "**/node_modules": false
+    }
+}
